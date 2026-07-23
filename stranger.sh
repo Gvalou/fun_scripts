@@ -14,3 +14,4 @@
 #faire exploser le vieux si une des réponses input
 #correspond à afrique ou europe
 
+#re test
